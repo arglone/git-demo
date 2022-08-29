@@ -7,6 +7,6 @@ hello linux! hello atguigu!
 hello linux! hello atguigu!
 hello linux! hello atguigu!
 hello linux! hello atguigu!
-hello linux! hello atguigu!
+hello linux! hello atguigu! hot-fix Test
 hello linux! hello atguigu! master Test
 under hot fix
